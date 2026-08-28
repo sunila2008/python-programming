@@ -1,0 +1,2 @@
+n = 6
+print("square = " , n ** 2)
